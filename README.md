@@ -1,3 +1,9 @@
+<h2> About </h2>
+
+- Studying Computer Science and Design
+- Open to collaborating
+- Contact me at: nicholas@iliou.de
+
 <h2> GitHub </h2>
 
 [![My GitHub stats - light](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
