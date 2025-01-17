@@ -23,8 +23,10 @@
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=Twitch&logoColor=white)
 
-[![My GitHub stats - light](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![My GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats - light](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![My GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+
 
 
 <!---
