@@ -1,16 +1,9 @@
-<h1 align="left"> Hi, 👋 I’m Nicholas Iliou</h1>
-
-- Studying Computer Science and Design
-- Open to collaborating
-- Contact me at: nicholas@iliou.de
-
-
-<h2></h2>
+<h2> GitHub </h2>
 
 [![My GitHub stats - light](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=000000&text_color=000000&icon_color=000000&theme=transparent#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![My GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=NicholasIliou&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&theme=transparent#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-<h2></h2>
+<h2> Toolstack </h2>
 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white)
