@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicholasIliou
-- 🌱 I’m currently learning Computer Science and Graphic Design.
+- 🌱 I’m currently studying Computer Science and Graphic Design.
 - 💞️ I’m looking to collaborate on, if I have the time, anything!
 - 📫 Reach me at: nicholas@iliou.de
 - 👀 I’m interested in Video Games, Sports and all things creative.
