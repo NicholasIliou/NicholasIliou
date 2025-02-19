@@ -1,9 +1,3 @@
-<h2> About </h2>
-
-- Studying Computer Science and Design
-- Open to collaborating
-- Contact me at: nicholas@iliou.de
-
 <h2> Toolstack </h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com)
