@@ -17,4 +17,6 @@
 [![Blender](https://img.shields.io/badge/Blender-f1f1f1?style=for-the-badge&logo=Blender&logoColor=black)](https://www.blender.org)
 [![OBS Studio](https://img.shields.io/badge/OBS_Studio-f1f1f1?style=for-the-badge&logo=OBS-Studio&logoColor=black)](https://obsproject.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasiliou&layout=compact)](https://github.com/nicholasiliou/github-readme-stats)
+<h2> Top Languages </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasiliou&layout=compact&hide_border=true&hide_title=true&card_width=1000)](https://github.com/nicholasiliou/github-readme-stats)
