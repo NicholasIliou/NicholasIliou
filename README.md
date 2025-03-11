@@ -19,4 +19,4 @@
 
 <h2> Top Languages </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasiliou&layout=compact&hide_border=true&hide_title=true&card_width=1000)](https://github.com/nicholasiliou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasiliou&layout=compact&hide_border=true&theme=transparent&hide_title=true&card_width=1000)](https://github.com/nicholasiliou/github-readme-stats)
