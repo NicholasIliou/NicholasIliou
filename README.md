@@ -1,5 +1,6 @@
-<img src="https://github.com/user-attachments/assets/0f9ab723-557e-47ff-b42f-530ce5229fd5" alt="GIF" width="200">
-
+<p align="right">
+  <img src="https://github.com/user-attachments/assets/0f9ab723-557e-47ff-b42f-530ce5229fd5" alt="GIF" width="200">
+</p>
 <h2> Toolstack </h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com)
