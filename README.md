@@ -1,3 +1,5 @@
+This GitHub will be less populated since I have started self-hosting 🌞
+
 <p align="right">
   <img src="https://github.com/user-attachments/assets/0f9ab723-557e-47ff-b42f-530ce5229fd5" alt="GIF" width="200">
 </p>
